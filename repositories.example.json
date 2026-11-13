@@ -1,0 +1,8 @@
+{
+  "archive_directory": "archives",
+  "interval_minutes": 30,
+  "minimum_free_gib": 5,
+  "repositories": [
+    { "repo": "octocat/Hello-World" }
+  ]
+}

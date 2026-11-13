@@ -1,0 +1,7 @@
+repositories.json
+archives/
+empty-hooks/
+__pycache__/
+retention-check-*/
+*.pyc
+*.log
